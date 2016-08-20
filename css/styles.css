@@ -1,0 +1,27 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+p.last {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+.important {
+  color: Red;
+}
+.flashy {
+  color: Red;
+  font-style: italic;
+}
+.best {
+  width: 110%;
+  font-weight: bold;
+  color: Green;
+}
+.my-class {
+  margin: 12px;
+border: 2px solid green;
+padding: 4px;
+background-color: orange;
+}
