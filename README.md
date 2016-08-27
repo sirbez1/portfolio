@@ -6,6 +6,8 @@
 # Discription
   - Create a webpage using HTML, and CSS with Bootstrap to be the landing page for my programing portfolio.
 
+# View the web page at: https://sirbez1.github.io/portfolio/
+
 # SetUp
 
 - Create a dir with a CSS folder
