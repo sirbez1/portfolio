@@ -18,6 +18,7 @@
 - Commit git comments
 
 # Tech
+
 HTML tags
 Incorporated <p>, <h>, <ol>, <li>, <li>, <em>, <strong>, <a>, <img>, <div>, <Span>
 Used Bootsrap classes and CSS classes.
